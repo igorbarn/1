@@ -1,2 +1,2 @@
 --Это первый файл на Lua
-print("печать строки")
+print("Print string")
