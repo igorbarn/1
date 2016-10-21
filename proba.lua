@@ -1,5 +1,6 @@
 --Тут кодировки
 print("Ещё раз сменил кодировку на 1251")
+print("Linux")
 print("Теперь этот текст будет видени в SublimeText")
 print(os.setlocale)
 print(os.date())
